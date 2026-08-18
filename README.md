@@ -10,7 +10,7 @@ The objective of this project is to implement, evaluate, and compare multiple Ma
 - **Target Variable**: Binary Classification (1: Good Quality [Rating >= 6], 0: Bad Quality [Rating < 6]).
 
 ## c. GitHub Repository Link
-[PASTE_YOUR_ACTUAL_GITHUB_REPOSITORY_URL_HERE](https://github.com/Abhishekns1997/2025AC05022_ML_assignment_2) 
+https://github.com/Abhishekns1997/2025AC05022_ML_assignment_2
 
 ## d. Model Comparison Table
 
